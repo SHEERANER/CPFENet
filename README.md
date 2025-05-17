@@ -25,3 +25,8 @@ This project uses requirements.txt.
 ```sh
 $ pip install -r requirements.txt
 ```
+## Reference
+All references are listed in the article.
+
+## Licence
+The code is distributed under the Apache License 2.0.
