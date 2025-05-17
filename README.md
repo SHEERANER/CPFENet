@@ -28,5 +28,21 @@ $ pip install -r requirements.txt
 ## Reference
 All references are listed in the article.
 
+# Citation
+
+If you find our work useful or relevant to your research, please consider citing:
+```
+@article {Zhang2025.01.20.25320811,
+	author = {Zhang, Shichen and Wang, Hongqiu and Tang, Haiyun and Li, Xiaoqin and Wu, Nian-Wei and Li, Bo and Chen, Xin and Chen, Kaishi and Xie, Baosong and Zhou, Aiyuan and Mo, Chunheng},
+	title = {Harnessing Artificial Intelligence for Accurate Diagnosis and Radiomics Analysis of Combined Pulmonary Fibrosis and Emphysema: Insights from a Multicenter Cohort Study},
+	elocation-id = {2025.01.20.25320811},
+	year = {2025},
+	doi = {10.1101/2025.01.20.25320811},
+	URL = {https://www.medrxiv.org/content/early/2025/01/20/2025.01.20.25320811},
+	eprint = {https://www.medrxiv.org/content/early/2025/01/20/2025.01.20.25320811.full.pdf},
+	journal = {medRxiv}
+}
+
+```
 ## Licence
 The code is distributed under the Apache License 2.0.
