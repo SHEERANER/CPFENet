@@ -7,7 +7,7 @@ __Shichen Zhang†, Hongqiu Wang†, Haiyun Tang†, Xiaoqin Li†, Nian-Wei Wu�
 \* To whom correspondence should be addressed.  
 †These authors contributed equally to this work.\
 
-### Abstract
+## Abstract
 Combined Pulmonary Fibrosis and Emphysema (CPFE), formally recognized as a distinct pulmonary syndrome in 2022, is characterized by unique clinical features and pathogenesis that may lead to respiratory failure and death. However, the diagnosis of CPFE presents significant challenges that hinder effective treatment. Here, we assembled three-dimensional(3D) reconstruction data of the chest High-Resolution Computed Tomography（HRCT) of patients from multiple hospitals across different provinces in China, including Xiangya Hospital, West China Hospital, and Fujian Provincial Hospital. Using this dataset, we developed CPFENet, a deep learning-based diagnostic model for CPFE. It accurately differentiates CPFE from COPD, with performance comparable to that of professional radiologists. Additionally, we developed a CPFE score based on radiomic analysis of 3D CT images to quantify disease characteristics. Notably, female patients demonstrated significantly higher CPFE scores than males, suggesting potential sex-specific differences in CPFE. Overall, our study establishes the first diagnostic framework for CPFE, providing a diagnostic model and clinical indicators that enable accurate classification and characterization of the syndrome. 
 
 ![Main figure](./figure/figure1.png)
